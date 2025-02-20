@@ -352,3 +352,4 @@ MigrationBackup/
 
 # freshEHR local; private folder
 _private/
+business/test.txt
